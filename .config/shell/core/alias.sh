@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-alias ls="exa -a --group-directories-first --color=always"
-alias ll="exa -la --group-directories-first --color=always"
+alias ls="ls -a --group-directories-first --color=always"
+alias ll="ls -la --group-directories-first --color=always"
 
 # Autojump
 j() {
