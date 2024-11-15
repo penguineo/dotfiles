@@ -15,10 +15,10 @@ return {
 				null_ls.builtins.formatting.golines.with({ filetypes = { "go" } }),
 				null_ls.builtins.formatting.goimports_reviser.with({ filetypes = { "go" } }),
 				null_ls.builtins.formatting.markdownlint.with({ filetypes = { "markdown" } }),
-				null_ls.builtins.formatting.prettierd.with({
+				null_ls.builtins.formatting.prettier.with({
 					filetypes = { "javascript", "typescript", "html", "css", "json" },
 				}),
-				null_ls.builtins.formatting.blackd.with({ filetypes = { "python" } }),
+				null_ls.builtins.formatting.black.with({ filetypes = { "python" } }),
 				null_ls.builtins.formatting.stylelint,
 				null_ls.builtins.formatting.shfmt,
 
