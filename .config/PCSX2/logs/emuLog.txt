@@ -1,5 +1,0 @@
-[wx] Failed to load shared library '/usr/lib/games/pcsx2/libspu2x-2.0.0.so': libjack.so.0: cannot open shared object file: No such file or directory
-
-(PCSX2:130053): Gtk-WARNING **: 11:13:29.404: Could not load a pixbuf from /org/gtk/libgtk/theme/Adwaita/assets/check-symbolic.svg.
-This may indicate that pixbuf loaders or the mime database could not be found.
-Action canceled: Startup aborted: User canceled FirstTime Wizard.
