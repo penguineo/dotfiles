@@ -1,6 +1,6 @@
 #!/bin/bash
 picom -b &
-.$HOME/fehbg &
+feh /storage/personal/wallpapers/gruvbox/girl-reading-book.jpg --bg-fill &
 vivaldi &
 easyeffects &
 keepassxc &
