@@ -1,0 +1,3 @@
+source $HOME/.config/shell/core/env.sh
+source $CORE/alias.sh
+source $BASH_PLUGINS/init.sh
